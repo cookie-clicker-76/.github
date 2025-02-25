@@ -2,16 +2,16 @@
 
 [![COOKIE CLICKER (1)](https://github.com/user-attachments/assets/d3a4689e-6342-4f7f-9f1e-329934706a21)](https://cookieclicker.ee/)
 
-Play Cookie Clicker here
+Play Cookie Clicker [here](https://cookieclicker.ee/)
 
 Cookie Clicker has been one of the most beloved idle games since its launch, and fans are eagerly anticipating what’s next. While Cookie Clicker 5 hasn’t been officially announced, many players are speculating about possible features, improvements, and expansions. In this post, we’ll explore what a future installment might include and how you can keep enjoying Cookie Clicker today.
 
 ---
-## 🍪 What is Cookie Clicker?
+## 🍪 What is [Cookie Clicker](https://cookieclicker.ee/)?
 
 Cookie Clicker is an idle clicker game where players bake cookies by clicking a giant cookie. Over time, they unlock upgrades, buy buildings, and use automation to generate billions (or even trillions) of cookies.
 
-Why is Cookie Clicker So Popular?
+Why is [Cookie Clicker](https://cookieclickerorteil.github.io) So Popular?
 
 ✅ Simple Yet Addictive Gameplay – Click to bake cookies and expand your empire.
 
@@ -24,7 +24,7 @@ Why is Cookie Clicker So Popular?
 ✅ No End in Sight – Keep baking forever!
 
 ---
-## 🚀 What Could Cookie Clicker 5 Bring?
+## 🚀 What Could [Cookie Clicker](https://cookieclicker.app) 5 Bring?
 
 While Cookie Clicker 5 is still a concept, players have high hopes for new features and improvements. Here’s what we might expect:
 
@@ -75,7 +75,7 @@ Click here to play Cookie Clicker
 
 [Android](https://play.google.com/store/apps/details?id=org.dashnet.cookieclicker&hl=en) – Download the mobile version and keep clicking on the go.
 
-steam: https://store.steampowered.com/app/1454400/Cookie_Clicker/ – Purchase Cookie Clicker on Steam for additional features and cloud saves.
+[Steam](https://store.steampowered.com/app/1454400/Cookie_Clicker/)  – Purchase Cookie Clicker on Steam for additional features and cloud saves.
 
 ### 🎮 Try These Strategies While You Wait:
 
@@ -95,4 +95,4 @@ While Cookie Clicker 5 remains a hopeful dream for now, there’s plenty to enjo
 
 Start baking now!
 
-What features would you like to see in a new Cookie Clicker game? Let us know in the comments below! 🍪
+### What features would you like to see in a new [Cookie Clicker](https://cookieclicker.ee/) game? Let us know in the comments below! 🍪
