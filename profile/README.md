@@ -69,7 +69,7 @@ Even though Cookie Clicker 5 isn’t out yet, you can still enjoy the latest ver
 
 ### 🎮 Play Cookie Clicker Now!
 
-Click here to play Cookie Clicker
+Click [here](https://cookieclicker.ee) to play Cookie Clicker
 
 ### 🎮 Play on Android & Steam
 
