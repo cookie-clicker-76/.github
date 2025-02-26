@@ -28,7 +28,7 @@ Why is [Cookie Clicker](https://cookieclickerorteil.github.io) So Popular?
 
 While Cookie Clicker 5 is still a concept, players have high hopes for new features and improvements. Here’s what we might expect:
 
-1. More Buildings and Upgrades
+### 1. More Buildings and Upgrades
 
 Each new version of Cookie Clicker introduces fresh buildings and upgrades to keep gameplay exciting. Possible new additions could include:
 
@@ -38,7 +38,7 @@ Alien Tech – Use extraterrestrial methods to bake even faster.
 
 Quantum Clickers – Time-bending technology to double cookie output.
 
-2. Expanded Minigames
+### 2. Expanded Minigames
 
 The stock market and garden minigames were great additions, but players want more! Cookie Clicker 5 could introduce:
 
@@ -46,7 +46,7 @@ Cookie Racing – Compete in events to win production boosts.
 
 Ingredient Gathering – Collect special items to craft unique cookies.
 
-3. New Prestige Perks
+### 3. New Prestige Perks
 
 The prestige system keeps long-term play rewarding. Possible new perks could include:
 
@@ -54,11 +54,11 @@ Time Loop Baking – Carry over a percentage of CPS after ascending.
 
 Golden Cookie Mastery – Increase the frequency of Golden Cookies.
 
-4. Multiplayer or Leaderboards
+### 4. Multiplayer or Leaderboards
 
 Many players have requested a multiplayer mode or leaderboards where they can compete for the highest cookie production.
 
-5. More Easter Eggs & Secrets
+### 5. More Easter Eggs & Secrets
 
 Cookie Clicker is known for its hidden surprises. Expect new shadow achievements, secret buildings, and unexpected twists in Cookie Clicker 5.
 
